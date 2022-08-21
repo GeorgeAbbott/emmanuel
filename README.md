@@ -1,1 +1,2 @@
-To store all documentation I need for doing stuff so I can sync it.
+# emmanuel
+To store all documentation/manuals I might need. 
