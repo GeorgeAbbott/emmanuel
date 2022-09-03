@@ -5,4 +5,5 @@ xcb/
     https://www.x.org/releases/X11R7.7/doc/libxcb/tutorial/index.html 
 
 unix/ 
-    daemon: 
+    daemon:                 netzmafia.de/skripten/unix/linux-daemon-howto.html
+    lex/yacc, ncurses:      https://tldp.org/docs.html#howto
